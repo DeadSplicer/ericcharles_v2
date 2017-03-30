@@ -1,0 +1,255 @@
+#photos {
+   /* Prevent vertical gaps */
+   line-height: 0;
+
+   -webkit-column-count: 5;
+   -webkit-column-gap:   0px;
+   -moz-column-count:    5;
+   -moz-column-gap:      0px;
+   column-count:         5;
+   column-gap:           0px;
+}
+
+#photos img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+  padding: .5px;
+}
+
+@media (max-width: 2000px) {
+  #photos {
+  -moz-column-count:    4;
+  -webkit-column-count: 4;
+  column-count:         4;
+  }
+}
+@media (max-width: 1200px) {
+  #photos {
+  -moz-column-count:    3;
+  -webkit-column-count: 3;
+  column-count:         3;
+  }
+}
+@media (max-width: 800px) {
+  #photos {
+  -moz-column-count:    2;
+  -webkit-column-count: 2;
+  column-count:         2;
+  }
+}
+@media (max-width: 500px) {
+  #photos {
+  -moz-column-count:    1;
+  -webkit-column-count: 1;
+  column-count:         1;
+  }
+}
+
+
+
+
+body {
+  /*font-family: 'Raleway', sans-serif;*/
+  /*font-family: 'Cutive Mono', monospace;*/
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  text-align: center;
+  background: #cc0000;
+  font-size: 30px;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.3),
+            0px 8px 13px rgba(0, 0, 0, 0.1),
+            0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+#desktopMenu {
+  padding-top: 0;
+  padding-bottom: 0;
+  text-align: center;
+  /*font-size: 16px;*/
+  padding: 10px 0px 10px 0px; /*top right bottom left*/
+  background: #232323;
+  line-height: .3;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  color: white;
+}
+
+#mobileMenu{
+  border-style: none;
+  background-color: #e5e5e5;
+  padding: 0px;
+}
+
+#active {
+  color: #cc0000;
+}
+
+#subMenu {
+  background: black;
+  color: #555555;
+  text-align: center;
+  margin: 0 0 1px 0;
+}
+
+#toTop {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  font-size: 16px;
+  line-height: .3;
+  font-style: italic;
+  padding-top: 10px;
+  padding-bottom: 23px;
+}
+
+#problemText {
+  padding-top:150px;
+  color:lightgray;
+  font-style:italic;
+  text-align:center;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    max-width: 1500px;
+    width: 70%;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  color: black;
+  margin: 0;
+  padding: 13px 0px 5px 0px; /*top right bottom left*/
+}
+
+.center {
+  text-align: center;
+}
+
+.description {
+  color: black;
+  padding: 5px 0px 0px 5px;
+}
+
+.col-sm-4{
+  padding: 0px;
+}
+
+.col-sm-6, .col-md-4, .col-lg-3 {
+  padding: 1px;
+}
+
+.row {
+}
+
+.container-fluid {
+
+}
+
+
+.button{
+  background-color: #000000;
+  border: none;
+  color: white;
+  padding: 13px 28px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  margin: 1px 1px;
+  cursor: pointer;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+}
+.button:hover{
+  /*background-color: #d60606;*/
+  color: #d60606;
+  text-decoration: none;
+  background-color: #000000
+}
+
+.button2{
+  border: none;
+  color: black;
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  transition: all 0.7s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+}
+.button2:hover{
+
+  text-decoration: none;
+  /*color: #d60606;*/
+  color: #d60606;
+}
+.button3{
+  border: none;
+  color: white;
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  transition: all 0.7s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+}
+.button3:hover{
+
+  text-decoration: none;
+  /*color: #d60606;*/
+  color: #d60606;
+}
+
+.menu_button{
+  border-style: none;
+  text-align: center;
+  background: black;
+  color: white;
+  padding: 8px 0 8px 0;
+}
+
+.mobileButton{
+  /*background-color: #a5a5a5;*/
+  background-color: #232323;
+  border: none;
+  color: white;
+  padding: 20px 5px;
+  text-align: center;
+  text-decoration: none;
+  display:block;
+  margin: 0px 0px;
+  cursor: pointer;
+}
+.mobileButton:hover{
+  /*background-color: #d60606;*/
+  color: #d60606;
+  text-decoration: none;
+  background-color: #000000;
+}
+
+.thumbnail{
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.hide {
+  display: none;
+}
