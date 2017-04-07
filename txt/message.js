@@ -1,12 +1,10 @@
 var mess = [
-  "Hello, it's nice to finally meet you.",
-  "I've been waiting here for quite some time. For as long as you can remember, anyway.",
-  "Sometimes I say your name as you're falling asleep, or whisper urgently in your ear...",
-  "Do you remember that time that I screamed, sending a burst of panic through you, and setting your heart racing?",
-  "You're wondering who I am. That's only natural. But of course, you already know...",
-  "I am you. The real you. I'm the mind that existed here before you stole my body; before you lost the memory of being the parasite that you are.",
-  "I am the child who looked the wrong way, asked the wrong question, saw the wrong thing...",
-  "You may have forgotten me, but I'm still here. I've always been here"
+  "Do you ever get the feeling like you're being watched?",
+  "Your attention is focused on the screen in front of you, yet you can't help but feeling like you're not alone. That someone, something, is watching you.",
+  "You glance around the room, and see that you're alone. But you aren't convinced. It's there.",
+  "You glimpse a shadow moving from the corner of your eye, or hear a creek or a thud that seems to have no origin...",
+  "That presence that you feel, that overwhelming sensation that someone somewhere is watching your every move, even as you sit at your computer reading this, is that so crazy?",
+  "You are not alone."
 ];
 var i = 0;                                        //denotes the character that is to be typed out on keypress
 var messCount = 0;                                //denotes what sentence is to be displayed
@@ -42,11 +40,15 @@ window.addEventListener("keypress", function(event) {
   //  then restart the textContent with a new message pulled from the mess array
   else {
     console.log("EOS");
-    butt.setAttribute("class", "visible");
-    buttonOn = true;
-    //Make button take the background defined in CSS, and set a destination for click event
-    butt.style.background = "";
-    //butt.setAttribute("onclick", "location.href='#'");
+
+    //if it is not the last line of the message, then make the button appear
+    if (messCount != mess.length-1) {
+      butt.setAttribute("class", "visible");
+      buttonOn = true;
+      //Make button take the background defined in CSS, and set a destination for click event
+      butt.style.background = "";
+      //butt.setAttribute("onclick", "location.href='#'");
+    }
 
     //When user clicks on the button or presses enter at the end of the string,
     //  set i = 0, remove message and go to the next mess array object, and rehide/disable the button.
@@ -58,25 +60,6 @@ window.addEventListener("keypress", function(event) {
         butt.setAttribute("class", "not-visible");
         buttonOn = false;
 
-
-        if (messCount === 3){
-          setTimeout(function(){
-            display.innerHTML = "<h1 style='color:red; font-weight: lighter; font-size: 13px;'>(that was fun)</h1>";
-            console.log("(that was fun)");
-          }, 0);
-        }
-        else if (messCount === 5){
-          setTimeout(function(){
-            display.innerHTML = "<h1 style='color:red; font-weight: lighter; font-size: 13px;'>(but im not so little anymore.)</h1>";
-            console.log("(but im not so little anymore.)");
-          }, 0);
-        }
-        else if (messCount === 6){
-          setTimeout(function(){
-            display.innerHTML = "<h1 style='color:red; font-weight: lighter; font-size: 13px;'>I'M GOING TO GET OUT.</h1>";
-            console.log("I'M GOING TO GET OUT.");
-          }, 0);
-        }
 
         display.textContent = "";
         i = 0;
@@ -91,25 +74,6 @@ window.addEventListener("keypress", function(event) {
         //remove button, set buttonOn to false
         butt.setAttribute("class", "not-visible");
         buttonOn = false;
-
-        if (messCount === 3){
-          setTimeout(function(){
-            display.innerHTML = "<h1 style='color:red; font-weight: lighter; font-size: 13px;'>(that was fun)</h1>";
-            console.log("that was fun");
-          }, 0);
-        }
-        else if (messCount === 5){
-          setTimeout(function(){
-            display.innerHTML = "<h1 style='color:red; font-weight: lighter; font-size: 13px;'>(but im not so little anymore.)</h1>";
-            console.log("that was fun");
-          }, 0);
-        }
-        else if (messCount === 6){
-          setTimeout(function(){
-            display.innerHTML = "<h1 style='color:red; font-weight: lighter; font-size: 13px;'>I'M GOING TO GET OUT.</h1>";
-            console.log("that was fun");
-          }, 0);
-        }
 
         display.textContent = "";
         i = 0;
