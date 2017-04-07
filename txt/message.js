@@ -1,7 +1,7 @@
 var mess = [
-  "Do you ever get the feeling like you're being watched?",
-  "Your attention is focused on the screen in front of you, yet you can't help but feeling like you're not alone. That someone, something, is watching you.",
-  "You glance around the room, and see that you're alone. But you aren't convinced. It's there.",
+  "Do you ever get the feeling that you're being watched?",
+  "Your attention is focused on the screen in front of you, yet you can't help but feeling like you're not alone. That someone, or something, is watching you.",
+  "You glance around the room, just to verify that you're alone. But you aren't convinced. It's there.",
   "You glimpse a shadow moving from the corner of your eye, or hear a creek or a thud that seems to have no origin...",
   "That presence that you feel, that overwhelming sensation that someone somewhere is watching your every move, even as you sit at your computer reading this, is that so crazy?",
   "You are not alone."
