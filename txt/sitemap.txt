@@ -1,0 +1,15 @@
+﻿http://ericcharl.es/index.html
+http://ericcharl.es/pages/about/about.html
+http://ericcharl.es/pages/contact/contact.html
+http://ericcharl.es/pages/ceramics/ceramics.html
+http://ericcharl.es/pages/ceramics/sculpture.html
+http://ericcharl.es/pages/game/game.html
+http://ericcharl.es/pages/video/video.html
+http://ericcharl.es/pages/animation/animation.html
+http://ericcharl.es/pages/photo/undergrad.html
+http://ericcharl.es/pages/photo/abandoned.html
+http://ericcharl.es/pages/digital/pc.html
+http://ericcharl.es/pages/digital/lp.html
+http://ericcharl.es/pages/digital/3d.html
+http://ericcharl.es/pages/digital/2d.html
+http://ericcharl.es/pages/digital/ip.html
