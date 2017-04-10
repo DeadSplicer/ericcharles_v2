@@ -19,8 +19,8 @@ var tag = document.querySelector(".line");        //selecting the cursor line "|
 var butt = document.querySelector("button");      //selecting the button
 
 //make butt invisible (for transition effect), set visibility to none
-butt.style.background = "rgba(1,1,1,0)";
 butt.setAttribute("class", "not-visible");
+butt.style.background = "rgba(1,1,1,0)";
 
 //type each character in textContent with each keypress, then disply and deal with the button at the end of the string
 window.addEventListener("keypress", function(event) {
@@ -55,9 +55,9 @@ window.addEventListener("keypress", function(event) {
     butt.addEventListener("click", function(){
       if (buttonOn === true) {
         //fade button out
-        butt.style.background = "rgba(1,1,1,0)";
+        this.style.background = "rgba(1,1,1,0)";
         //remove button, set buttonOn to false
-        butt.setAttribute("class", "not-visible");
+        this.setAttribute("class", "not-visible");
         buttonOn = false;
 
 
