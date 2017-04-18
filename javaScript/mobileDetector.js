@@ -50,11 +50,17 @@ if (currentPage === "Photography"){
       if(txt === "CODE"){
         window.location = "../../txt/index.html"
       }
+      else if(txt === "FUCK"){
+        window.location = "../../pages/photo/314159265.html"
+      }
     }
     else {
       txt += event.char.toUpperCase();
       if(txt === "CODE"){
         window.location = "../../txt/index.html"
+      }
+      else if(txt === "FUCK"){
+        window.location = "../../pages/photo/314159265.html"
       }
     }
   });
