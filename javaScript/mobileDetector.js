@@ -50,7 +50,7 @@ if (currentPage === "Photography"){
       if(txt === "CODE"){
         window.location = "../../txt/index.html"
       }
-      else if(txt === "FUCK"){
+      else if(txt === "NSFW"){
         window.location = "../../pages/photo/314159265.html"
       }
     }
@@ -59,7 +59,7 @@ if (currentPage === "Photography"){
       if(txt === "CODE"){
         window.location = "../../txt/index.html"
       }
-      else if(txt === "FUCK"){
+      else if(txt === "NSFW"){
         window.location = "../../pages/photo/314159265.html"
       }
     }
