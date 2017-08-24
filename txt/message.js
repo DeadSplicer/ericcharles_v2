@@ -1,5 +1,5 @@
 var mess = [
-  "Do you ever get the feeling that you're being watched?",
+  "Anxiety is a thin stream of fear trickling through the mind. If encouraged, it cuts a channel into which all other thoughts are drained. -Somers Roche",
   "Your attention is focused on the screen in front of you, yet you can't help but feeling like you're not alone. That someone, or something, is watching you.",
   "You glance around the room, just to verify that you're alone. But you aren't convinced. It's there.",
   "You glimpse a shadow moving from the corner of your eye, or hear a creek or a thud that seems to have no origin...",
@@ -8,7 +8,7 @@ var mess = [
 ];
 var i = 0;                                        //denotes the character that is to be typed out on keypress
 var messCount = 0;                                //denotes what sentence is to be displayed
-var junk = ' qwxz/!@#$%^&*()-+=_____|[{}]?<>;:'   //various characters to randomly pop up in the browser text box
+var junk = ' qwxz/!@#$%^&*()-+=_____|[{}]?<>;:01' //various characters to randomly pop up in the browser text box
 var sub1 = "";                                    //substring before the character that is to be replaced with junk
 var sub2 = "";                                    //substring after the character that is to be replaced with junk
 var val = false;                                  //Used so that the flicker(display) function inside setInterval is only called once
