@@ -51,6 +51,7 @@ body {
   /*font-family: 'Raleway', sans-serif;*/
   /*font-family: 'Cutive Mono', monospace;*/
   font-family: 'Josefin Sans', sans-serif;
+  font-weight: 100;
   font-size: 16px;
   margin: 0;
   padding: 0;
@@ -106,22 +107,23 @@ body {
   padding-top: 10px;
   padding-bottom: 23px;*/
   margin-top: 25px;
-text-align: center;
-padding: 0px 0px 0px 0px; /*top right bottom left*/
-/*font-family: 'Cormorant Garamond', serif;*/
-font-size: 16px;
-font-style: italic;
-color: white;
-border-top: inset;
-border-width: thin;
-border-color: gray;
-background: #232323;
-display: block;
-text-decoration: none;
+  text-align: center;
+  padding: 0px 0px 0px 0px; /*top right bottom left*/
+  /*font-family: 'Cormorant Garamond', serif;*/
+  font-size: 16px;
+  font-style: italic;
+  color: white;
+  border-top: inset;
+  border-width: thin;
+  border-color: gray;
+  background: #232323;
+  display: block;
+  text-decoration: none;
 }
 
 #problemText {
   padding-top:150px;
+  font-family: 'Cutive Mono', monospace;
   color:lightgray;
   font-style:italic;
   text-align:center;
