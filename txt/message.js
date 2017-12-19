@@ -82,6 +82,73 @@ window.addEventListener("keypress", function(event) {
     }
   }
 });
+//------------------------------------------------copy paste of above, just looking for click
+//type each character in textContent with each keypress, then disply and deal with the button at the end of the string
+window.addEventListener("click", function(event) {
+  if (i < mess[messCount].length){
+    display.textContent += mess[messCount][i];
+    if (display.textContent.length > 0 && val === false){
+      setInterval(function() {
+        flicker(display);
+      }, Math.floor(Math.random() * 5000));
+      val = true;
+    }
+    i++;
+    //buttonOn = false;
+  }
+
+  //Reveal the button and wait for the user to click on the button or press enter,
+  //  then restart the textContent with a new message pulled from the mess array
+  else {
+    console.log("EOS");
+
+    //if it is not the last line of the message, then make the button appear
+    if (messCount != mess.length-1) {
+      butt.setAttribute("class", "visible");
+      buttonOn = true;
+      //Make button take the background defined in CSS, and set a destination for click event
+      butt.style.background = "";
+      //butt.setAttribute("onclick", "location.href='#'");
+    }
+
+    //When user clicks on the button or presses enter at the end of the string,
+    //  set i = 0, remove message and go to the next mess array object, and rehide/disable the button.
+    butt.addEventListener("click", function(){
+      if (buttonOn === true) {
+        //fade button out
+        this.style.background = "rgba(1,1,1,0)";
+        //remove button, set buttonOn to false
+        this.setAttribute("class", "not-visible");
+        buttonOn = false;
+
+
+        display.textContent = "";
+        i = 0;
+        messCount++;
+      }
+    });
+    //This part is very redundant of the above eventListener, but waiting for the user to press enter instead of clicking
+    if (event.which === 13) {
+      if (buttonOn === true) {
+        //fade button out
+        butt.style.background = "rgba(1,1,1,0)";
+        //remove button, set buttonOn to false
+        butt.setAttribute("class", "not-visible");
+        buttonOn = false;
+
+        display.textContent = "";
+        i = 0;
+        messCount++;
+      }
+    }
+  }
+});
+//------------------------------------------------end of copy paste of above, just looking for click
+
+
+
+
+
 
 
 
