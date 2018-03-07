@@ -8,6 +8,6 @@ $body = "Text content to review: \n\n $name \n $comment";
 
 mail ($to,$subject,$body)
 
-echo "message sent";
+// echo "message sent";
 
  ?>
