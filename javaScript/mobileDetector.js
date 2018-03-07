@@ -56,6 +56,7 @@ if (currentPage === "Photography"){
     }
     else {
       txt += event.char.toUpperCase();
+      console.log(txt)
       if(txt === "CODE"){
         window.location = "../../txt/index.html"
       }
