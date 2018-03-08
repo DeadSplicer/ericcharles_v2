@@ -1,6 +1,6 @@
 <?php
 $name = $_POST['name'];
-$comment = $POST['comment'];
+$comment = $_POST['comment'];
 
 $to = "zombieishungry@yahoo.com";
 $subject = "New comment to review for Everthing Rocks!";
