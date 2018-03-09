@@ -1,74 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-89113067-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
-    <meta charset="utf-8">
-    <link rel="shortcut icon" href="../../images/misc_icons/favicon_2.ico" type="image/x-icon">
     <title>Eric Charles - Low-Poly | 3D, 2D, Animation, Photography, Video, Game Design, Ceramics</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <script type="text/javascript" src="../../javaScript/jquery-3.1.1.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Josefin+Sans:light,regular|Raleway:100i,200,400,700" rel="stylesheet">
-    <link href="../../css/style.css" rel="stylesheet">
-    <link href="../../css/lightbox.css" rel="stylesheet">
-<link rel="alternate" href="http://ericcharl.es" hreflang="en-us" />
-
-    <a name="top"></a>
   </head>
 <!-- ---------------------------------------------------------------------------- -->
   <body>
-    <div id="header">
-      <h1><a href="../../index.html" class="button2">
-        <img src="../../images/misc_icons/logo.png"
-        onmouseover="this.src='../../images/misc_icons/bungif.gif';"
-        onmouseout="this.src='../../images/misc_icons/logo.png';"
-        height=auto
-        width=40px >
-        ERIC CHARLES</a>
-      </h1>
-    </div>
-
-    <div class="menu_button">
-      Menu
-    </div>
-
-    <!-- IF mobile, change div id to mobilemenu and class to mobilebutton & vice versa -->
-    <div id="desktopMenu" class="center">
-      <a href="../../pages/digital/pc.html" class="button" id="active">Digital 2D & 3D</a>
-      <a href="../../pages/photo/undergrad.html" class="button">Photography</a>
-      <a href="../../pages/animation/animation.html" class="button">Animation</a>
-      <a href="../../pages/video/video.html" class="button">Video</a>
-      <a href="../../pages/game/game.html" class="button">Game Design</a>
-      <a href="../../pages/ceramics/ceramics.html" class="button">Ceramics</a>
-      <a href="../../pages/about/about.html" class="button">About</a>
-      <a href="../../pages/contact/contact.html" class="button">Contact</a>
-    </div>
-
-    <div id="desktopmenu">
-      <p id="subMenu">
-        <a href="../../pages/digital/pc.html" class="button3">Product Concepts</a>
-&nbsp;|&nbsp;
-        <a href="../../pages/digital/lp.html" class="button3" id="active">Low Poly</a>
-&nbsp;|&nbsp;
-        <a href="../../pages/digital/3d.html" class="button3">3D Play</a>
-&nbsp;|&nbsp;
-        <a href="../../pages/digital/2d.html" class="button3">2D Prints</a>
-&nbsp;|&nbsp;
-        <a href="../../pages/digital/ip.html" class="button3">Inspired Portraits</a>
-      </p>
-    </div>
-
-
-
     <!-- <form action="send.php method="POST">
       Name: <br><input type="text" name="name"><br>
       Comment: <br><textarea name="comment"></textarea><br>
@@ -79,15 +15,5 @@
       Comment: <br><textarea name="comment"></textarea><br>
       <input type="submit" name="submit" value="Send">
     </form>
-
-
-    <div class="center">
-      <p id="problemText">Problem with the site? Please send me an email so that I can fix it!</p>
-      <a href='#top' id="toTop">Back to Top</a>
-    </div>
-
-    <script type="text/javascript" src="../../javaScript/mobileDetector.js"></script>
-    <script type="text/javascript" src="../../javaScript/easing.js"></script>
-    <script type="text/javascript" src="../../javaScript/lightbox.min.js"></script>
   </body>
 </html>
