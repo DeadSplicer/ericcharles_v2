@@ -2,11 +2,11 @@
 $name = $_POST['name'];
 $comment = $_POST['comment'];
 
-//$to = "zombieishungry@yahoo.com";
-// $subject = "New comment to review for Everthing Rocks!";
+$to = "zombieishungry@yahoo.com";
+ $subject = "New comment to review for Everthing Rocks!";
  $body = "Text content to review: \n\n $name \n $comment";
 
-// mail($to,$subject,$body)
+mail($to,$subject,$body)
 
 // echo $name;
 // echo $comment;
@@ -16,6 +16,7 @@ $comment = $_POST['comment'];
 // These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
+
 
 //Load composer's autoloader
 require 'vendor/autoload.php';
