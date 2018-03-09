@@ -1,4 +1,16 @@
 <?php
+
+// Import PHPMailer classes into the global namespace
+// These must be at the top of your script, not inside a function
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+//Load composer's autoloader
+require 'vendor/autoload.php';
+
+
+
+
 $name = $_POST['name'];
 $comment = $_POST['comment'];
 
@@ -12,14 +24,10 @@ mail($to,$subject,$body)
 // echo $comment;
 
 
-// Import PHPMailer classes into the global namespace
-// These must be at the top of your script, not inside a function
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
 
 
-//Load composer's autoloader
-require 'vendor/autoload.php';
+
+
 
 $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
 try {
