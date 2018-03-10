@@ -22,9 +22,9 @@
 
     <form id="contact-form">
       <form action="https://formspree.io/zombieishungry@yahoo.com" method="POST">
-        Name: <br><input type="text" name="name"><br>
-        Email: <br><input type="email" name="_replyto"><br>
-        Comment: <br><input type="textarea" name="body"><p>
+        Name: <br><input type="text" name="name" maxlength="20"><br>
+        Email: <br><input type="email" name="_replyto" maxlength="20"><br>
+        Comment: <br><textarea name="body" maxlength="140" rows="7"></textarea><p>
         <input type="submit" value="Send">
       </form>
     </form>
