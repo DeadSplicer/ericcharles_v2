@@ -2,6 +2,10 @@
 <html>
   <head>
     <title>Eric Charles - Low-Poly | 3D, 2D, Animation, Photography, Video, Game Design, Ceramics</title>
+    <!-- <script type="text/javascript" src="../../javaScript/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="formspree.js"></script>
+    <script type="text/javascript" src="alertify.min.js"></script> -->
+
   </head>
 <!-- ---------------------------------------------------------------------------- -->
   <body>
@@ -15,11 +19,39 @@
       Comment: <br><textarea name="comment"></textarea><br>
       <input type="submit" name="submit" value="Send">
     </form> -->
-    <form action="https://formspree.io/zombieishungry@yahoo.com"
-    method="POST">
-      <input type="text" name="name">
-      <input type="email" name="_replyto">
-      <input type="submit" value="Send">
+
+    <form id="contact-form">
+      <form action="https://formspree.io/zombieishungry@yahoo.com" method="POST">
+        Name: <br><input type="text" name="name"><br>
+        Email: <br><input type="email" name="_replyto"><br>
+        Comment: <br><input type="textarea" name="body"><p>
+        <input type="submit" value="Send">
+      </form>
     </form>
+
+
+    <!-- <form id="contact-form">
+      <div class="form-group center-block">
+        <label for="inputName">Name</label>
+        <input type="text" class="form-control contact-input" id="inputName" placeholder="Name" name="name">
+      </div>
+      <div class="form-group center-block">
+        <label for="inputEmail">Email</label>
+        <input type="email" class="form-control contact-input" id="inputEmail" placeholder="Email" name="email">
+      </div>
+      <div class="form-group center-block">
+        <label for="inputMessage">Message</label>
+        <textarea id="inputMessage" class="form-control contact-input" rows="3" placeholder="Your Message" name="message"></textarea>
+      </div>
+      <input type="text" name="_gotcha" class="display-none">
+      <div class="text-center">
+        <button class="btn btn-default" type="submit" id="email-submit-btn" value="Send">
+          Submit
+        </button>
+      </div>
+      <span></span>
+    </form> -->
+
+
   </body>
 </html>
