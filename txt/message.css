@@ -1,5 +1,7 @@
 body {
   background-color: #232323;
+  margin: 0;
+  padding: 0;
 }
 
 #container {
@@ -24,6 +26,35 @@ body {
 
 .not-visible {
   visibility: hidden;
+}
+
+video{
+  /* min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  align-items:center;
+  position:fixed;
+  overflow:hidden;
+  top: 0;
+  left: 0;
+
+  display: block;
+  margin: 0 auto; */
+
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -o-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
 }
 
 

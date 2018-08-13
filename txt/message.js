@@ -1,8 +1,6 @@
 var mess = [
-  "Anxiety is a thin stream of fear trickling through the mind. If encouraged, it cuts a channel into which all other thoughts are drained. -Somers Roche",
-  "Your attention is focused on the screen in front of you, yet you can't help but feeling like you're not alone. That someone, or something, is watching you.",
-  "You glance around the room, just to verify that you're alone. But you aren't convinced. It's there.",
-  "You glimpse a shadow moving from the corner of your eye, or hear a creek or a thud that seems to have no origin...",
+  "I will dig a hole miles into this horrible planet, and know every pleasure that there is to know. When I venture into the depths, I will finally be happy. -Anorexia",
+  "A short distance away, Nervosa could see her sister, Anorexia. She was building a tower.",
   "That presence that you feel, that overwhelming sensation that someone somewhere is watching your every move, even as you sit at your computer reading this, is that so crazy?",
   "You are not alone."
 ];
@@ -53,6 +51,9 @@ window.addEventListener("keypress", function(event) {
     //When user clicks on the button or presses enter at the end of the string,
     //  set i = 0, remove message and go to the next mess array object, and rehide/disable the button.
     butt.addEventListener("click", function(){
+
+      window.open("vd1.html")
+
       if (buttonOn === true) {
         //fade button out
         this.style.background = "rgba(1,1,1,0)";
