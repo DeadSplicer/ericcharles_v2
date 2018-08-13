@@ -52,7 +52,7 @@ window.addEventListener("keypress", function(event) {
     //  set i = 0, remove message and go to the next mess array object, and rehide/disable the button.
     butt.addEventListener("click", function(){
 
-      window.open("vd1.html")
+      window.open("vd1.html", "_self")
 
       if (buttonOn === true) {
         //fade button out
