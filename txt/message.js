@@ -69,6 +69,9 @@ window.addEventListener("keypress", function(event) {
     });
     //This part is very redundant of the above eventListener, but waiting for the user to press enter instead of clicking
     if (event.which === 13) {
+      
+      window.open("vd1.html", "_self")
+      
       if (buttonOn === true) {
         //fade button out
         butt.style.background = "rgba(1,1,1,0)";
