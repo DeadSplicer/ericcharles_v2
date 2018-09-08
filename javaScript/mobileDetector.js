@@ -54,6 +54,9 @@ if (currentPage === "Photography"){
       else if(txt === "NSFW"){
         window.location = "../../pages/photo/314159265.html"
       }
+      else if(txt === "BUD"){
+        window.location = "../../pages/photo/01101110011100110110011001110111.html"
+      }
     }
     else {
       txt += event.key.toUpperCase();
@@ -63,6 +66,9 @@ if (currentPage === "Photography"){
       }
       else if(txt === "NSFW"){
         window.location = "../../pages/photo/314159265.html"
+      }
+      else if(txt === "BUD"){
+        window.location = "../../pages/photo/01101110011100110110011001110111.html"
       }
     }
   });
