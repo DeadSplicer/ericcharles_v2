@@ -38,15 +38,16 @@ $('.menu_button').on('click', function(){
   //alert("click");
 })
 
-//Nothing happens here, so just jog on. Twat.
+//Nothing happens here, so https://www.youtube.com/watch?v=LoXfiSU_wqE
 var txt = "";
 var currentPage = document.getElementById("active").textContent;
 
 if (currentPage === "Photography"){
   window.addEventListener("keypress", function(event) {
     if (isChrome()){
-      console.log("Chrome!")
-      txt += event.code[3];
+      console.log("Chrome!");
+      txt += event.key.toUpperCase();
+      console.log(txt);
       if(txt === "CODE"){
         window.location = "../../txt/index.html"
       }
@@ -55,7 +56,7 @@ if (currentPage === "Photography"){
       }
     }
     else {
-      txt += event.char.toUpperCase();
+      txt += event.key.toUpperCase();
       console.log(txt)
       if(txt === "CODE"){
         window.location = "../../txt/index.html"
