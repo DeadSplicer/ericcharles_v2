@@ -81,6 +81,10 @@ form {
   margin: 10px 10px 10px 10px;
 }
 
+#home {
+  background-color: #1e1e1e;
+}
+
 #contact {
   background: #f5fcff;
   border: 4px solid #f5fcff;
@@ -150,11 +154,16 @@ form {
 }
 
 #problemText {
-  padding-top:150px;
   font-family: 'Cutive Mono', monospace;
   color:lightgray;
   font-style:italic;
   text-align:center;
+}
+
+#pad_top {
+  padding-top:150px;
+  color:lightgray;
+  font-style: italic;
 }
 
 hr {
