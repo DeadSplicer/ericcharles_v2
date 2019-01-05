@@ -14,7 +14,7 @@
   /* Just in case there are inline attributes */
   width: 100% !important;
   height: auto !important;
-  padding: .5px;
+  padding: 0px;
 }
 
 @media (max-width: 2000px) {
@@ -82,7 +82,16 @@ form {
 }
 
 #home {
-  background-color: #1e1e1e;
+  /* background-color: #1e1e1e; */
+  background-color: black;
+}
+.fixedbg {
+    background-image: url("../images/home/cas.png");
+    min-height:70vh;
+    background-attachment:scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
 }
 
 #contact {
@@ -92,11 +101,11 @@ form {
 
 #header {
   text-align: center;
-  background: #cc0000;
+  background: black;
   font-size: 30px;
-  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.3),
-            0px 8px 13px rgba(0, 0, 0, 0.1),
-            0px 18px 23px rgba(0, 0, 0, 0.1);
+  text-shadow: 0px 4px 13px rgba(255, 255, 255, 0.3),
+            0px 8px 23px rgba(255, 255, 255, 0.1),
+            0px 18px 33px rgba(255, 255, 255, 0.1);
 }
 
 #desktopMenu {
@@ -105,7 +114,8 @@ form {
   text-align: center;
   /*font-size: 16px;*/
   padding: 10px 0px 10px 0px; /*top right bottom left*/
-  background: #232323;
+  /* background: #232323; */
+  background: black;
   line-height: .3;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 16px;
@@ -249,8 +259,9 @@ h3 {
 
 .button2{
   border: none;
-  color: black;
+  color: white;
   padding: 0px 0px;
+  padding-right: 35px;
   text-align: center;
   text-decoration: none;
   display:inline-block;
@@ -287,7 +298,11 @@ h3 {
 }
 
 .menu_button{
-  border-style: none;
+  border-style: solid;
+  border-right: none;
+  border-left: none;
+  border-width: 1px;
+  border-color: white;
   text-align: center;
   background: black;
   color: white;
@@ -315,6 +330,13 @@ h3 {
 
 .thumbnail{
   border: none;
+  /* background-color: black; */
+  padding: 0;
+  margin: 0;
+}
+.thumbnail_home{
+  border: none;
+  background-color: black;
   padding: 0;
   margin: 0;
 }
