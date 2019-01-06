@@ -16,6 +16,13 @@
   height: auto !important;
   padding: 0px;
 }
+.photos img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+  padding: 0px;
+  background-color: #f2f2f2;
+}
 
 @media (max-width: 2000px) {
   #photos {
@@ -221,7 +228,7 @@ h3 {
 }
 
 .container-fluid {
-
+  padding-bottom: 150px;
 }
 
 .shadow {
@@ -233,6 +240,11 @@ h3 {
   box-shadow: -3px 3px 8px rgba(0, 0, 0, 0.1);
             /* 0px 8px 13px rgba(0, 0, 0, 0.1),
             10px 18px 23px rgba(0, 0, 0, 0.1); */
+}
+
+.grayback {
+  background-color: red;
+
 }
 
 
