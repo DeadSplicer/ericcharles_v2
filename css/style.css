@@ -350,15 +350,11 @@ h3 {
   padding: 0;
   margin: 0;
 }
-.thumbnail:hover{
-  filter:brightness(150%);
-}
 .thumbnail_home{
   border: none;
   background-color: black;
   padding: 0;
   margin: 0;
-
 }
 .filter{
   transition: all 1s ease-in-out;
