@@ -25,6 +25,7 @@ if (isMobile.matches) {
   $(".menu_button").show();
   $(".mobile_insta").show();
   $(".desktop_insta").hide();
+  $("a").removeClass("filter");
 
 }
 else {

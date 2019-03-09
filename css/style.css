@@ -349,9 +349,6 @@ h3 {
   /* background-color: black; */
   padding: 0;
   margin: 0;
-  transition: all 1s ease-in-out;
-  -webkit-transition: all 1s;
-  -moz-transition: all 1s;
 }
 .thumbnail:hover{
   filter:brightness(150%);
@@ -361,11 +358,14 @@ h3 {
   background-color: black;
   padding: 0;
   margin: 0;
+
+}
+.filter{
   transition: all 1s ease-in-out;
   -webkit-transition: all 1s;
   -moz-transition: all 1s;
 }
-.thumbnail_home:hover{
+.filter:hover{
   filter: brightness(150%);
 }
 
