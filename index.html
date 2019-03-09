@@ -13,7 +13,7 @@
 </script>
 <meta charset="utf-8">
 <link rel="shortcut icon" href="images/misc_icons/favicon.ico?" type="image/x-icon">
-<title>Eric Charles Art | 3D, 2D, Animation, Photography, Video, Game Design, Ceramics</title>
+<title>Creative Pixels Art | Eric Charles | 3D, 2D, Animation, Photography, Video, Game Design, Ceramics</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script type="text/javascript" src="javaScript/jquery-3.1.1.js"></script>
@@ -37,7 +37,7 @@
 
     <h1>
       <a href="#" class="button2">
-        ERIC CHARLES</a>
+        Creative Pixels</a>
       </h1>
     </div>
 
@@ -225,5 +225,45 @@
       <script type="text/javascript" src="javaScript/mobileDetector.js"></script>
       <script type="text/javascript" src="javaScript/easing.js"></script>
       <script type="text/javascript" src="javaScript/lightbox.min.js"></script>
+
+      <!-- script for smooth scrolling effect | works on MS Edge (where css smooth scroll doesn't) but kinda forks up Chrome scrolling so best to leave it off for now -->
+      <!-- <script>
+      // Select all links with hashes
+      $('a[href*="#"]')
+        // Remove links that don't actually link to anything
+        .not('[href="#"]')
+        .not('[href="#0"]')
+        .click(function(event) {
+          // On-page links
+          if (
+            location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+            &&
+            location.hostname == this.hostname
+          ) {
+            // Figure out element to scroll to
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            // Does a scroll target exist?
+            if (target.length) {
+              // Only prevent default if animation is actually gonna happen
+              event.preventDefault();
+              $('html, body').animate({
+                scrollTop: target.offset().top
+              }, 1000, function() {
+                // Callback after animation
+                // Must change focus!
+                var $target = $(target);
+                $target.focus();
+                if ($target.is(":focus")) { // Checking if the target was focused
+                  return false;
+                } else {
+                  $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+                  $target.focus(); // Set focus again
+                };
+              });
+            }
+          }
+        });
+      </script> -->
     </body>
     </html>
