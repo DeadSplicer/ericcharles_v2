@@ -353,18 +353,22 @@ h3 {
   -webkit-transition: all 1s;
   -moz-transition: all 1s;
 }
+.thumbnail:hover{
+  filter:brightness(150%);
+}
 .thumbnail_home{
   border: none;
   background-color: black;
   padding: 0;
   margin: 0;
-}
-.thumbnail:hover{
-  /* transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
   -webkit-transition: all 1s;
-  -moz-transition: all 1s; */
-  filter:brightness(150%);
+  -moz-transition: all 1s;
 }
+.thumbnail_home:hover{
+  filter: brightness(150%);
+}
+
 
 .hide {
   display: none;
