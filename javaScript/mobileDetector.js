@@ -81,6 +81,9 @@ if (currentPage === "Photography"){
 }
 
 
+
+
+
 /*
  * Youtube video auto-resizer script
  * Created by Skipser.com
