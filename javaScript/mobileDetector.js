@@ -62,6 +62,9 @@ if (currentPage === "Photography"){
       else if(txt === "BUD"){
         window.location = "../../pages/photo/01101110011100110110011001110111.html"
       }
+      else if(txt === "TEST"){
+        window.location = "../../txt/PHSLEU.html"
+      }
     }
     else {
       txt += event.key.toUpperCase();
