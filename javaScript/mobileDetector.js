@@ -84,8 +84,8 @@ if (currentPage === "Photography"){
 }
 
 
-// const observer = lozad(); // lazy loads elements with default selector as '.lozad'
-// observer.observe();
+const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+observer.observe();
 
 
 /*
