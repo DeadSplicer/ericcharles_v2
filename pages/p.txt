@@ -1,0 +1,895 @@
+``Photographs state the innocence, the vulnerability of lives
+heading toward their own destruction, and this link between
+photography and death haunts all photographs of people.''
+
+Susan Sontag, On Photography
+Toward the end of Precarious Life (2004), I consider the question of what it means to
+become ethically responsive, to consider and attend to the suffering of others, and,
+more generally, which frames permit the representability of the human and which do
+not. This seems important not only to answer the question of whether we might
+respond effectively to suffering at a distance, but also to formulate a set of precepts
+that might work to safeguard lives in their fragility and precariousness. I am not asking
+in this context about the subjective sources of this kind of responsiveness, although I do
+consider this question in Giving an Account of Oneself (2005a). Rather, here I propose
+to consider the way in which suffering is presented to us, and how that presentation
+affects our responsiveness. In particular, I want to understand how the frames that
+allocate the recognizability of certain figures of the human are themselves linked with
+broader norms that determine questions of humanization or dehumanization. My
+point, which is at this point hardly new, is to suggest that, whether and how we
+
+respond to the suffering of others, how we formulate moral criticisms, how we articu-
+late political analyses, depend upon a certain field of perceptible reality already being
+
+established. This field of perceptible reality is one in which the notion of the recogniz-
+able human is formed and maintained over and against what cannot be named or
+
+regarded as the human, a figure of the nonhuman that holds the place of the human
+in its unrecognizability. At the time that I wrote Precarious Life, Abu Ghraib had not
+yet come to light; I was working then only with the pictures of the shackled and
+crouched bodies in Guantanamo Bayönot yet knowing the details of torture thereö
+as well as other representational issues of the war: the debates about the war dead
+in Iraq and the problem of embedded reporting.
+Some government officials and representatives of the media claimed that we should
+not see the war dead, our own, or their own, because that would be anti-American;
+journalists and newspapers were actively denounced for showing coffins of the
+American war dead shrouded in flags; such images should not be seen because they
+might arouse certain kinds of sentiments; the mandating of what can be seenöa
+concern with contentöwas supplemented by control over the perspective from which
+the action and destruction of war could be seen at all, which led not only to the institution
+of `embedded' reporting, but an unprecedented collaboration between journalists and the
+Department of Defense. In her text, Regarding the Pain of Others (2003), Susan Sontag
+Torture and the ethics of photography À
+
+Judith Butler
+Rhetoric Department, 7408 Dwinelle Hall, University of California, Berkeley, CA 94720, USA;
+e-mail: jpbutler@berkeley.edu
+Presented 19 April 2007
+Environment and Planning D: Society and Space 2007, volume 25, pages 951 ^ 966
+doi:10.1068/d2506jb
+
+À This is the text of the Environment and Planning D: Society and Space lecture, given at the
+Association of American Geographers in San Francisco on 19 April 2007. The lecture marked
+the 25th anniversary of the founding of Society and Space.
+
+remarks that this practice of embedded reporting begins earlier, with the coverage of the
+British campaign in the Falklands in 1982 (page 65) where only two photojournalists were
+permitted to enter the region and no television broadcasts were allowed. Since that time,
+journalists have increasingly agreed to comply with the exigencies of embedded reporting
+in order to secure access to the action itself. But what is the action to which access is then
+secured through embedded reporting? In the case of the recent and current war, it is
+action established by the perspective that the Department of Defense orchestrates and
+permitsöso we see something of the performative power of the state to orchestrate
+and ratify what will be called reality or, more philosophically, the reach and extent of
+the ontological field.
+It won't do to say, as Sontag elsewhere does, that the photograph cannot by itself
+provide an interpretation, that we need captions and analysis to move beyond the
+discrete and punctual image. I have no doubt that we need such captions and analyses,
+but if we say that the photograph is not an interpretation we get in another bind. She
+writes that, whereas prose and painting can be interpretive, photography is merely
+selective (page 6) and later in the same text, she elaborates:
+``while a painting, even one that achieves photographic standards of resemblance, is
+never more than the stating of an interpretation, a photograph is never less than an
+emanation (light waves reflected by objects)öa material vestige of its subject in a
+way that no painting can be'' (page 154).
+Sontag argued that photographs have the capacity to move us momentarily, but
+that they do not have the power to build an interpretation. If a photograph becomes
+effective in informing or moving us politically, it is only because the photograph is
+
+received within a context of a relevant political consciousness. For Sontag, photo-
+graphs render truths in a dissociated moment; they `flash up' in a Benjaminian sense.
+
+As a result, they are always atomic and punctual and discrete. What they appear to
+lack is narrative coherence that, alone, supplies the needs of the understanding. We can
+see Sontag the writer here defending her trade over and against the photographers with
+whom she surrounded herself in the last decades of her life. For our purposes, though,
+it makes sense to know that the mandated photograph, the one that complies with state
+department requirements, is building an interpretation. We can even say that the
+political consciousness that moves the photographer to accept those restrictions and
+yield the compliant photograph is embedded in the frame itself. We do not have to have
+a caption or a narrative at work to understand that a political background is being
+explicitly formulated and renewed through the frame. In this sense, the frame takes
+part in the active interpretation of the war compelled by the state; it is not just a visual
+image awaiting its interpretation; it is itself interpreting, actively, even forcibly.
+As a visual interpretation, it can only be conducted within certain kinds of lines
+and so within certain kinds of frames, unless, of course, the mandatory framing
+becomes part of the story, unless there is a way to photograph the frame itself. At
+that point the photograph that yields its frame to interpretation is one that opens the
+restrictions on interpreting reality to critical scrutiny. It exposes and thematizes
+the mechanism of restriction, and it constitutes a disobedient act of seeing. Rarely, if
+ever, does this operation of mandatory and dramaturgical `framing' itself become part
+of what is seen, much less what is told. Whenever and wherever the photograph yields
+
+up its own forcible frame to visual scrutiny and interpretation, it opens up the restric-
+tions on interpreting reality to critical scrutiny. What this means is that we come to
+
+interpret that interpretation that has been imposed upon us.
+So there is, it seems to me, in recent war photography a significant departure from
+the conventions of war photojournalism that were at work thirty and forty years ago
+where the photographer or camera person would attempt to enter the action through
+952 J Butler
+
+certain angles and modes of access that sought to expose the war in ways that no
+government had planned. Currently, the state operates on the field of perception and,
+
+more generally, the field of representability, in order to control affect, and in antici-
+pation of the way that affect informs and galvanizes political opposition to the war.
+
+I refer to a field of `representability' rather than `representation' because this field
+is structured by state permission; as a result, we cannot understand this field of
+representability simply by examining its explicit contents, since it is constituted
+fundamentally by what is cast out and maintained outside the frame within which
+representations appear. We can think of the frame, then, as active, as jettisoning
+and presenting, and as doing both at once, in silence, without a visible sign of its
+operation and yet effectively.
+The operation of the frame, where state power exercises its forcible dramaturgy,
+is not precisely representable or, when it is, it risks becoming insurrectionary and
+becomes subject to state punishment and control. Prior to the events and actions
+that are represented within the frame, there is an active, if unmarked, delimitation of
+the field itself, and so a set of contents and perspectives that are not shown, never
+shown, impermissable to show. They constitute the nonthematized background of what
+is represented, one that can only be approached through thematizing the delimitating
+function itself, one that allows for an exposure of the forcible dramaturgy of the state
+and the collaboration with it by those who deliver the visual news of the war through
+complying with permissible perspectives. That delimitation is part of an operation
+of power that does not appear as a figure of oppression. We might image the state as
+dramaturg, and so secure our understanding of this operation of state power through
+an available figure. But it is essential to the continuing operation of this power not to
+be seen. Rather, it is precisely a nonfigurable operation of power that works to delimit
+the domain of representability itself. That it is nonfigurable does not mean it cannot
+be shown. But what is shown when it comes into view is the staging apparatus itself,
+the maps that exclude certain regions, the directives of the army, the positioning
+of the cameras, the communication of the punishments that lay in wait if protocol
+is breached.
+But when one does see the framing of the frame, what is it that is going on? I would
+suggest that this is not just a problem internal to the life of the media, but one in which
+certain larger norms, often racializing and civilizational, are able to instate their
+structuring effect on what for the time being is called `reality'.
+Before the publication of the photos from Abu Ghraib, I sought to relate three
+different terms in my efforts to understand the visual dimension of war as it relates to
+the question of whose lives are grievable, and whose are not: in the first instance, there
+are normsöexplicit or tacitöthat govern which human lives count as human and as
+living, and which do not; these norms also determine when and where a life can be said
+to be lost, and that loss registered as the violent loss of life; in this way, I sought to
+relate the norms that govern when and where a life counts as human to the question of
+when and where such a life is grievable and, correlatively, when and where the loss
+of life remains ungrievable and unrepresentable. Those broader social and political
+norms that establish the lives that will be considered human, considered a life, and
+so considered as grievable precisely in those terms, operate in many ways, but one way
+
+they operate is through frames that govern the perceptible, frames that effect a delimit-
+ing function, bringing into focus an image on the condition that some portion of the
+
+visual field is ruled out. What this means, theoretically, is that the image that is
+represented signifies its admissibility into the domain of representability; that same
+image thus signifies the delimiting function of the frame even as, or precisely because,
+it does not represent it.
+Torture and the ethics of photography 953
+
+In the public discourse on Camp Delta in Guantanamo, the treatment of Arabs
+in the US (both Arab-Americans and those in the US as visitors or permanent
+residents), the suspension of civil liberties, certain norms are operative in establishing
+who is human and entitled to human rights and who is not, whose life, if extinguished,
+is publicly grievable and whose life may leave no public trace to grieve. These norms
+are, as it were, enacted precisely through specific frames, visual and narrative, that
+presuppose decisions about what will be unframed, and what will be left outside the
+frame. If norms and frames constitute the first two hinges for my analysis, the last term
+of these three is human suffering itself, and there I am worried slightly about the
+privileging of the human, the anthropomorphism it implies, but I am willing to take
+that risk for now; it does not mean to imply a lack of respect or regard for the suffering
+of sentient beings who are not human. It is meant only to identify a difficulty that
+happens whenever the human is invoked, since not all humans are included in the
+invocation as it currently travels, and continuing presumptions about civilization
+support which humans we regard as entitled to legal protection, and which humans
+we abandon to a domain unprotected by any law.
+We might have thought that the US personnel in Abu Ghraib or Guantanamo were
+bound to engage in humane treatment by virtue of international accords governing
+prisoners of war. Very few people at Abu Ghraib even knew about those accords.
+Moreover, once we grasp that the Geneva Convention, originally instituted in 1949, is
+only applicable to citizens of those countries already recognized as nation-states, and
+that those engaged in conflicts on behalf of emergent nations or outside of the state
+structureöas noncitizensöare not covered by its terms, it follows that the Geneva
+Accord does not extend its protection universally. Or, rather, it maintains a parochial
+version of universality that only extends to those humans already recognized as citizens
+of existing nation-states. Moreover, the language of the accord makes numerous
+civilizational and racial presumptions, and it will turn out that racial norms frame
+the human, and also exclude those we must still insist on calling `human' from within
+its purview. Do I need to make plain in what I consider the human to consist? For our
+purposes, I propose that we consider the way it works as a differential norm. Let us
+think of the human as a value and a morphology that is allocated and retracted,
+aggrandized, personified, degraded and disavowed, elevated and affirmed. It continues
+to produce the nearly impossible paradox of a human who is no human, or a norm of
+the human that effaces the human as it is otherwise known. Wherever there is the
+human, there is the inhuman: when we proclaim some group of beings who have not
+been considered to be human, we admit that humanness is a shifting prerogative. Some
+humans take their humanness for granted, and others struggle to gain access to the
+term. The term `human' is constantly producing a doubling that exposes the ideality
+and coercive character of the norm: some humans qualify as human; some humans do
+not, and when I use the term in the second of these utterances, I do nothing more than
+assert a discursive life for a human who is not the same as the norm that determines
+what and who will count as a human life, and what and who will not.
+When Donna Haraway asks, ``have we ever yet become human?'', she is at once
+positing a `we' that is outside the norm of the human, and questioning whether the
+human is ever something that can be fully accomplished. I would suggest that this
+norm is not something that we must seek to embody, but a differential of power that
+
+we must learn to read, to assess culturally and politically, and to oppose in the differ-
+ential way it works. And yet, we also need the term, to assert it precisely where it
+
+cannot be asserted, and to do this in the name of opposing the differential of power by
+which it operates and inciting ethical responsiveness to suffering, as a way of working
+954 J Butler
+
+against the forces of neutralization or erasure that separate us from knowing and
+responding to the suffering that is caused in our names.
+If, as the philosopher Emmanuel Levinas claims, it is the face of the other that
+demands from us an ethical response, then it would seem that the norms that allocate
+who is human and who is not arrive in visual form. These norms work to give face and
+efface. Accordingly, our capacity to respond with outrage, with opposition, and with
+
+critique will depend in part on how the differential norm of the human is communi-
+cated through visual and discursive frames. There are ways of framing that will bring
+
+the human in its frailty and precariousness into view, allow us to stand for the value
+and dignity of human life, to react with outrage when lives are degraded or eviscerated
+without regard for their value as lives. And then there are frames that foreclose
+responsiveness, to be understood as the negative action of existing frames, so that no
+alternative frames can exist; for them to exist and to permit another kind of content
+would perhaps communicate a suffering that might lead to an alteration of our
+political assessment of the current war. For photographs to communicate in this way,
+they must have a transitive function. They do not merely portray or represent, but they
+relay affect. In times of war, this transitive affectivity of the photograph may well
+overwhelm and numb us, but it may also incite and motivate.
+In her book On Photography in 1977, Sontag argued that the photographic image
+no longer has the power to enrage, to incite, that the visual representation of suffering
+has become cliche ̈d, that we have become bombarded by sensationalist photography
+and that, as a result, our capacity for ethical responsiveness has become diminished. In
+her next book, Regarding the Pain of Others (2003), she is more ambivalent about the
+status of the photograph, since she concedes that it can and must represent human
+suffering, teach us how to register human loss and devastation across global distances,
+establish through the visual frame a proximity to suffering that keeps us alert to the
+
+human cost of war, famine, and destruction in places that are far from us both geo-
+graphically and culturally. For photographs to accuse and possibly invoke a moral
+
+response, they must shock. And shock is something other than aestheticizing, conforming
+to a rote formula, or preparing for a consumer demand.
+But she still believes that the photograph is fatally linked to the momentary. Over
+and against this predicament of the photograph, the pathos of narrative ``does not wear
+
+out'' (page 83). She writes ``narratives can make us understand: photographs do some-
+thing else. They haunt us.'' Of course, we must ask whether narratives don't haunt us as
+
+well, and whether photographs, in their status as visual representations, don't also
+make us understand? And is it not the case that the power of the photograph to excite
+and enrage us is bound up with the very interpretation of reality it delivers? If we claim
+
+that only words can offer us that interpretive understanding, have we created a need-
+less divide between photography, understood to convey affect, and prose, understood
+
+to convey understanding? What psychological theory would support such a view, and
+is it actually right?
+For Sontag, the matter is more complicated, since before we can even say that the
+
+photograph can both affect us emotionally and establish an interpretative understand-
+ing, we have to make sure that the photograph still has the power to affect us at all.
+
+Sometimes it seems to bespeak our numbness, and other times it seems to establish our
+prurience and tendency to respond to sensationalism. It would seem that, if Sontag
+were right in her earlier thesis that the photograph no longer has the power to excite
+and enrage us, then Mr Rumsfeld's response to the photos depicting the torture in the
+Abu Ghraib prison would not have made sense. When, for instance, Rumsfeld claimed
+that to show all the photos would allow the photos of torture and humiliation and
+rape to define us as Americans, he attributed an enormous power to photography
+Torture and the ethics of photography 955
+
+to construct national identity itself. This seems also to be what one of the more
+reactionary pundits on US television, a Mr O Reilly, meantöwhen he proclaimed
+that to show these photos would constitute Anti-American actions. It would seem that
+I should show the photos with this essay, but I confess to being worried about how
+they circulate, a point I'll return to later. For now, though, let me recapitulate the
+argument so that we know where we are heading.
+The question for me is the following: how do the norms that govern which lives
+will be regarded as human lives and which will not, enter into the frames through
+which discourse and visual representation proceed, and how do these in turn delimit
+and orchestrate or foreclose ethical responsiveness to suffering. I am not suggesting
+
+that these norms and frames determine our response, which would make our respon-
+ses into behaviorist effects of a monstrously powerful visual culture. I am suggesting
+
+only that the way these norms enter into frames and into larger circuits of commu-
+nicability are vigorously contested precisely in an effort to regulate affect, outrage,
+
+and response.
+When some of the Abu Ghraib photes were released, what was the public response,
+and what has happened to that response over the course of the last years? The problem
+is not to establish that the public viewing of the photographs led to a significant
+decline in popular support for the war. I think that surely the photographs did play a
+role and that methodologists of public opinion have views on how to regard this
+`factor'. My concern is rather different. I want to suggest that the photographs do
+
+not necessarily numb our senses nor do they necessarily determine a particular res-
+ponse. They are shown again and again, and this history of their differing framing and
+
+reception structures, without determining, the kinds of public interpretations of torture
+that we have. In particular, I want to consider how the norms governing the `human'
+are relayed and abrogated through the communication of these photos, and that the
+response of First World viewers is critically involved in the `trace' of the human. This
+`trace' is not the same as the full restitution of the humanity of the victim, however
+desirable that surely is, but the public condition under which we feel outrage and
+construct political views that incorporate that outrage. In a sense, my reflections are
+a further effort to come to terms with the problems that preoccupied Sontag toward
+the end of her life,(1) even though I differ from her on the relationship between
+photography and interpretation.
+Indeed, I've found Susan Sontag's last publications to be good company as I
+consider what they are and what they do, and these include both her Regarding the
+Pain of Others, published two years ago, and ``Regarding the torture of others'' that
+was released on the Internet and published in The New York Times (Sontag, 2004) after
+the release of these photographs. As you know, the photographs taken within the Abu
+Ghraib prison showed brutality, humiliation, rape, murder, and in that sense they were
+clear representational evidence of war crimes. They have functioned in many ways,
+including as evidence in legal proceedings against those who are pictured as engaging
+in acts of torture and humiliation. They have also become iconic for the way that the
+US government, in alliance with Britain, has spurned the Geneva Conventions,
+particularly the protocols governing the fair treatment of prisoners of war. The
+photographs showed instances of abuse and torture, but it quickly became clear
+within the months of April and May of 2004 that there was a pattern among them
+and that, as the Red Cross contended for many months before the scandal broke,
+(1) See Sontag (2004), http://www.nytimes.com/2004/05/23/magazine/23PRISONS.html, and my
+``Photography, war, outrage'' (2005b) which includes an earlier discussion of some of the issues
+covered in this essay.
+956 J Butler
+
+there was a systematic mistreatment of prisoners in Iraq, paralleling a systematic
+mistreatment at Guantanamo.(2) Only later did it become clear that the protocols
+devised for Guantanamo were explicitly used by the personnel at Abu Ghraib, and
+
+that both sets of protocols were indifferent to the Geneva Accords. Whether govern-
+mental officials called what is depicted in the photos `abuse' or `torture' suggests that
+
+the relation to international law is already at work. They did not dispute that the
+photographs are real, that they recorded something that did happen. Establishing
+the referentiality of the photographs was, however, not enough. The photos are not
+only shown, but named; both the way that they are shown, the way they are framed
+and the words used to describe what is shown work together to produce an interpretive
+matrix for what is seen.
+But before we consider the conditions under which they are published and the form
+in which they are made public, let us consider the way the frame works to establish a
+relation between the photographer, the camera, and the scene. The photos depict or
+represent a scene, the visual image that is preserved within the photographic frame.
+But the frame also belongs to a camera that is situated spatially in the field of vision,
+thus not shown within the image, but the technological precondition of an image that
+indicates that camera through indirect reference. Although the camera is outside the
+frame, it is clearly `in' the scene as its constitutive outside. When the photographing of
+these tortures became the topic for public debate, the scene of the photograph was
+extended. It is not just the spatial location and social scenario in the prison itself, but
+the entire social sphere in which the photograph is shown, seen, censored, publicized,
+discussed, and debated. So we might say that the scene of the photograph has changed
+through time. Let's notice a few things about this larger scene, one in which visual
+evidence and discursive interpretation play off against one another. There was `news'
+because there were photos, the photos lay claim to a representational status, and the
+photos have traveled beyond the original place where they were taken, the place
+depicted in the photos themselves. On the one hand, they are referential; on the other
+hand, they change their meaning depending on the context in which they are shown
+and the purpose for which they are invoked. They are representing events as they
+actually were, and so the photos refer and the photo functions as incontestable
+evidence and proof of torture. The photos are published within newspapers, but the
+newspapers also make selections: some photos are shown, and others are not. To this
+day, Newsweek maintains possession of numerous photos that it refused to publish on
+the grounds that the publication would not be `useful'. Useful for what? Clearly, they
+mean, `useful to the war effort'ösurely they do not mean `useful for individuals who
+require free access to information about the current war in order to establish lines of
+accountability and to form political viewpoints on the war in question.' In restricting
+what we may see, do the government and the media then also limit the kinds of
+evidence that a public has at its disposal in order to make judgments about the wisdom
+and course of the current war? If, as Sontag claims, the contemporary notion of
+atrocity requires photographic evidence, then the only way to establish that torture
+or atrocity has taken place is through photographic evidence, at which point the
+evidence constitutes the phenomenon. Put another way, the photograph builds the act
+of torture in its evidentiary form.
+In the US, the prurient interests in the photographs themselves seemed to preempt
+a fair amount of political response. Lynndie England with the leash around the man's
+(2) Geoffrey Miller, Major General in the US Army is generally regarded as responsible for devising
+torture protocols at Guantanamo, including instituting dogs for the purposes of torture, and for
+transposing those protocols to Abu Ghraib (see Salon 2006).
+Torture and the ethics of photography 957
+
+head can be front and center in The New York Times, and yet some papers relegated
+that photo to the inside of the newspaper, selecting those that are most incendiary
+or those that are least incendiary. And yet, within military court proceedings, the
+
+photo is considered evidence from within a frame of potential or actual legal proceed-
+ings is already framed within the discourse of law and of truth. The photo presupposes
+
+a photographer, and that person is never shown in the frame. The question of guilt has
+
+been juridically restricted to those who committed such actions or who were respon-
+sible for those who did commit those actions. And these prosections have been limited
+
+to the most well-publicized cases.
+One question that is not often asked is, who were the people who took these
+photos, and what can we infer from their occluded spatial relation to the image itself?
+Did they take them to expose abuse or to gloat in the spirit of US triumphalism? Is the
+taking of the photo a way to participate in the event and, if so, in what way? It would
+seem that the photos were taken by those who were recording the event, producing, as
+The Guardian called it, a pornography of the event, but at some point one person,
+aware of an ongoing investigation, or perhaps a set of persons, realized that there was
+
+something wrong with the actions depicted or became fearful of an impending inves-
+tigation. It may be that the photographers were ambivalent at the time they took the
+
+photos or grew ambivalent with time; it may be that they feasted on the sadistic scene
+in some way that would demand at least a psychological account. I don't dispute
+the importance of psychology to understanding what goes on here, but psychology
+should not be used reduce the torture to exclusively individual acts of pathology.
+We're in a group scene with these photographs, so we need something more actively
+approximating a psychology of group behavior or, better yet, an account of how the
+norms of war in this instance neutralize morally significant relationships to violence
+and to humanity. We're also in a specific political situation, so any effort to reduce
+these acts to individual psychologies alone would return us to a familiar consideration
+of the individual along with the concept of personality as the causal matrix for
+the understanding of events. Understanding the structural and spatial dynamics of the
+photograph can offer an alternative point of departure for our understanding of these
+events.
+The photographer is recording a visual image of the scene, and so approaching the
+scene through a frame before which those who engaged in torture and its triumphal
+
+aftermath also stood and posed. The relation between the photographer and the photo-
+graphed takes place by virtue of the frame. The frame permits, orchestrates, and
+
+mediates that relation. And though the photographers at Abu Ghraib had no Defense
+Department authorization for the pictures they took, perhaps their perspective can
+also be rightly considered a form of embedded reporting. After all, the perspective on
+the so-called enemy was not idiosyncratic, but shared, so widely shared, it seems, that
+there was hardly a thought that something might be amiss here. Can we see these
+photographers not only as reiterating and confirming a certain practice of decimating
+Islamic cultural practice and norms, but as conforming toöand articulatingöthe
+widely shared social norms of the war?
+So what are the norms according to which security personnel, actively recruited
+from private firms contracted to supervise US domestic prisons, and US soldiers acted
+as they did? And what are the norms that reside in the active framing by the camera,
+since these are what forms the basis of the cultural and political text at issue here.
+If the photograph does not only depict the event, but build and augment the event, if
+the photograph can be said to reiterate and continue the event, then the photograph
+does not, strictly speaking, postdate the event, but becomes crucial to its production,
+its legibility, its illegibility, and its very status as reality. Perhaps the camera promises a
+958 J Butler
+
+festive cruelty: `Oh, good, the camera's here: let's begin the torture so that the photograph
+might capture and commemorate our act!' If so, the photograph is already at work
+prompting, framing, and orchestrating the act, even as the photograph captures the act
+at the moment of its accomplishment.
+The task, in a way, is to understand the operation of a norm that circumscribes
+reality that works through the action of the frame itself; we have yet to understand this
+frame, these frames, where they come from and what kind of action they perform. So
+if there is more than one photographer and we cannot lay claim to a clear motivation
+of these photographers from the photos that are available, we are left to read the scene
+in another way. We can say with some confidence that the photographer is catching the
+event, but when we say that the photographer is recording the event, an implied
+audience becomes an issue. It may be that he or she is recording the event to show
+to those who are perpetrating the torture so that they may enjoy the reflection of their
+actions on the digital camera, and disseminate that particular accomplishment quickly,
+as digital technology allows. The photos may also be a kind of evidence, conceived as
+proof that just punishment was administered. Photographing is a kind of action that is
+not always anterior to the event, not always posterior to the event. The photograph is a
+kind of promise that the event will continue, is that very continuation of the event,
+producing an equivocation at the level of the temporality of the event; did those actions
+happen then; do they continue to happen? Does the photograph continue the event in
+the present?
+It would seem that photographing the scene can be a way of contributing to the
+scene, providing a visual reflection and documentation for it, giving it the status of
+history in some sense. Does the photograph or, indeed, the photographer, contribute
+to the scene? Act upon the scene? Intervene upon the scene? Photography has a
+relation to intervention, but photographing is not the same as an intervening. There
+are the photos of bodies bound together, of individuals killed, of forced fellatio, or
+dehumanizing degradation, and they were taken, unobstructed. The field of vision is
+clear. No one is seen lunging in front of the camera to intercept the view. No one
+is shackling the photographer and throwing him or her in the bin. This is torture in
+plain view, in front of the camera, even for the camera. After all, it is centered action,
+and the torturers regularly turn toward the camera to make sure their own faces are
+shown, even as the faces of those they torture are mainly shrouded. The camera itself is
+ungagged, unbound, and so occupies and references the safety zone that surrounds and
+supports the persecutors in this scene. And we do not know how much of this torture
+is actually done for the camera, to `show' what the US can do, as a sign of military
+triumphalism, sadistic control, the ability to effect a nearly complete degradation of the
+putative enemy, an effort to win the clash of civilizations and subject the ostensible
+barbarians to our civilizing mission which, we can see, has rid itself so beautifully of its
+own barbarism. To the extent that the photograph communicates the scene, potentially,
+
+to newspapers and media sources, and the torture is, in some sense, for the photo-
+graph, it is, from the start, meant to be communicated; its own perspective is in plain
+
+view, and the cameraman or woman is referenced by the smiles that the torturers offer
+him or her: as if to say, thank you for taking my picture, thank you for memorializing
+my triumph. And then there is the question of whether the photographs were shown to
+
+those who might be tortured, as a warning and a threat. It is clear that the photo-
+graphs were used to blackmail those depicted there with the threat that their families
+
+would see their humiliation and shame, especially sexual shame.
+The photograph depicts; it has a representational and referential function. But it
+seems there are at least two questions that are raised by this referential function: one
+is, what does the referential function do besides refer? What other functions does it serve?
+Torture and the ethics of photography 959
+
+What other effects does it produce? And the second, one that I will deal with below, has to
+do with the range of what is represented. If the photo represents reality, which reality is
+it that is represented? And how does the frame circumscribe what will be called reality
+in this instance?
+So we are seeing what is trueöin the sense that this really happened, and yet, the
+truth of what we see has already been selected for usöand in that way we do not know
+precisely where the happening begins and ends; we see, nevertheless, this true event in
+the newspaper or on the television or on the Internet, and editorial decisions are being
+made; they are also being contested; they are also the topic of newspaper articles on
+editorial decisions, on self-censorship and on the political biases of various instruments
+of media. And so, what is it that we see? A name must be given to what we see, and at
+this point a debate ensues: is it poor treatment, is it torture? If it is poor treatment,
+then it is lamentable, but it does not defy international law and put the US in direct
+violation of the Geneva Accord, a situation that could bring the US before the World
+Court or the International Criminal Court. If it had been poor treatment, then we
+could have said that we are `sorry' for the poor treatment, admit to a moral failure,
+avert the legal question of noncompliance with international law and of crimes against
+
+humanity, and get on with the business of war, where the `business of war' is under-
+stood to be something other than this moral failure, illegal torture, where the business
+
+of war is understood to be something other than the practice of torture, where the
+business of war is somehow understood to be morally and politically justified in this
+instance.
+Whether or not this occupation which is supposed to postdate a war, but which
+continues to be a war, is legal has, of course, not been actively addressed by the US
+administration or its willing allies, and we can see, I believe, a recourse to extralegal
+
+grounds for legitimating this war from the beginning (a refusal to honor either con-
+gressional or UN inquiries into the legitimacy of military action), something which has
+
+strong implications, as we will see, for how the war is now conducted and whether war
+crimes can and will be prosecuted. The photographs might be said, then, to depict the
+extralegality of the war itself.
+Do these images, then, refer not only to the continuing extralegality of the war, but
+to the practice of photography and its relation to violence? Consider the photograph
+in relation to other photographs that were taken by the same digital cameras. Sontag
+tells us that photographs cannot narrate, and that narrative alone satisfies the needs of
+the understanding. But they produce specific kinds of sequences in their digital forms;
+they constitute their own forms of seriality that reflect upon a certain structure of
+ordinary life under conditions of violently imposed occupation. Some of these digital
+cameras had files that include picture of dead Iraqis, Iraqis being killed, murdered,
+raped, forced into sexual relations, and these are interspersed with photos of the local
+bazaar, friends smiling and eating, soldiers saluting the flag, views of the street and
+the neighborhood, Americans making love in apparently consensual terms, a soldier
+randomly shooting a camel in the head. So in these instances, it would seem that the
+photos are part of a record of everyday life, and that everyday life has to be understood
+in this context as consisting in a certain sequential interchangeability of such images.
+According to this view, it would not be triumphalism that motivates the photograph,
+but something more closely approximating the mundanity of brutality, what Hannah
+Arendt called the banality of evil and which we might call the `digitalization of evil'
+(though not the evil of digitality). The camera is, as it were, in the photo, in many of
+these instances, since the soldiers are not `caught' holding the leash tied to the neck
+of a bound and named man on the floor. They look directly into the camera and wait
+for the camera to record them in their activity. This activity is not morally alarming;
+960 J Butler
+
+it is quotidian; it only becomes morally alarming after seeing and hearing how people
+outside the frame react to the image once it is communicated. So when the photo is
+taken, it seems, it is part of the scene, helping to make the scene possible, orchestrating
+its pose, but not operated as a tool of investigative journalism or the exposure of
+human rights abuse. The intention of the photographer does not finally matter, though,
+since the photos become evidence, even indirectly accusing the one who furnishes them
+with failing to intervene in a crime against humanity. Although it now turns out that some
+of the photographers were involved in the torture itself, offering humiliating props,
+engaged in sexual humiliation.
+The action of the camera itself is either oddly compliant, recording, as it were,
+without comment, and raising no alarm, or it works as an incitement to orchestrate the
+scene, but also to extend the scene in time, to keep the scene going, again and again,
+promising a further visual consumption of the sadistic pleasure after the event. Indeed,
+the camera does not exactly delineate the event in time and space, although it does do
+that, and the time and space can be duly chronicled and recorded. At the same time, it
+allows the event to continue to happen, and I would suggest that, because of the photo,
+the event has not stopped happening.
+It is difficult to understand this proliferation of images, but it seems to coincide
+with a proliferation of acts, a frenzy of photography. There is not only a certain
+pleasure involved in the scenes of torture, something we must consider, but a pleasure
+or perhaps a compulsion involved in the taking of the photographs itself. Why else
+would there be so many? Joanna Bourke, an historian at Birkbeck, who published a
+book about the history of rape, wrote an article in The Guardian on 7 May 2004
+entitled ``Torture as pornography''. Some of what she says seems clearly right to me,
+though I am not sure she can, with the use of `pornography' as her explanatory
+category, explain the role of the photograph as actor in the scene. She does write,
+shrewdly, that there is exultation in the photographer, though we do not get images
+of the photographer, so it is an inference she makes by considering the photographs,
+their number, the circumstance of their taking. Although I'm prepared to believe that
+her attribution of pleasure to the photographer is true, I am not sure on what basis
+I ground my belief. She writes,
+``the people taking the photographs exult in the genitals of their victims. There is no
+moral confusion here: the photographers don't even seem aware that they are
+recording a war crime. There is no suggestion that they are documenting anything
+particularly morally skewed. For the person behind the camera, the aesthetic of
+pornography protects them from blame.''
+So perhaps I am odd, but as I understand it, the problem with the photos is not
+that someone is exulting in another person's genitals. Let's assume that we all do that
+on occasion and that there is nothing particularly objectionable in that exultation, and
+that it might even be precisely what is needed to make for a good day or a good night.
+What is clearly objectionable is coercion and force as well as the exploitation of sexual
+acts in the service of shaming and debasing another human being. The distinction is
+crucial, of course, since the first finds sexual exchange to be a problem, and the second
+finds the coercive nature of sexual acts to be a problem. This equivocation was
+compounded when Mr Bush emerged from the senate chambers after viewing some
+of these photographs. When asked for his response, he said, ``it is disgusting'' leaving
+
+unclear whether the homosexual acts of sodomy and fellatio he witnessed were dis-
+gusting, or the physically coercive and psychologically debasing conditions and effects
+
+of the torture itself. Indeed, if it is homosexual acts that are ``disgusting'' to him, then
+he misses the point about torture, allowing his sexual revulsion and moralism to take
+the place of an ethical objection to torture. If the torture is disgusting, why did he use
+Torture and the ethics of photography 961
+
+that word, rather than wrong or objectionable or criminal? The word ``disgusting'' keeps the
+equivocation in tact, and so leaves two issues questionably intertwined: homosexual acts,
+on the one hand, and physical and sexual torture, on the other.
+In some ways, the faulting of these photographs as pornography seems to commit a
+similar category mistake. Bourke's conjectures on the psychology of the photographer
+are interesting, and there is doubtless some mix of cruelty and pleasure that we need to
+think about. But how would we go about deciding the issue? Don't we need to ask why
+
+we are prepared to believe such things in order to approach the question of photog-
+raphy and torture critically? How would the photographer's awareness that he or she is
+
+recording a war crime appear within the terms of the photograph itself? It is one thing
+to affirm that some of what is recorded is rape and torture, and another to say that the
+means of representation is pornographic. My fear is that the old slippage between
+
+pornography and rape reappears here in unexamined form. In case you don't remem-
+ber it, the view was that pornography motivates or incites rape, that it is causally
+
+linked with rape (those who watch it end up doing what they watch), and that what
+happens at the level of the body, in rape, happens at the level of representation, in
+pornography.
+I think it is true that there seems to be no sense that the photographs, at the
+
+time that they are taken, are intervening as an instrument of moral inquiry, polit-
+ical exposure, legal investigation. The soldiers and security personnel photographed
+
+are clearly at ease with the camera, playing to it, and though I have suggested that
+there might be triumphalism, Bourke claims that the photographs themselves act
+as ``trophies, memorialising agreeable actions''. She further argues that the abuse is
+performed for the camera, and it is this thesis, one that I tentatively share, that leads to
+her a conclusion with which I disagree. Her argument is that the abuse is performed by
+the camera, and this leads her to the conclusion that the images are pornographic,
+producing pleasure in the sight of suffering for the photographer and, I presume, for
+the consumer of these images. What emerges in the midst of this thoughtful argument
+is a presumption that pornography is fundamentally defined by visual pleasure taken
+in the seeing of human and animal suffering and torture. At this point, if the pleasure
+is in the seeing, and the pleasure is taken in the suffering depicted, the torture is the
+effect of the camera, and the camera or, rather, its pornographic gaze, is the cause of
+the scene of suffering itself; in effect, the camera becomes the torturer. Sometimes
+Bourke refers to the ``perpetrators in these photographs'', but other times it seems
+that the photograph and the photographer are the perpetrators. Both may be true in
+some significant sense. But the ethical problem becomes more difficult when, at the
+end of her provocative article, she writes that ``these pornographic images have
+stripped bare what little force remained in the humanitarian rhetoric concerning the
+war.'' I gather she means that these images give the lie to humanitarian justifications
+for the war. That may well be true for some. But she does not exactly say why this is
+true. Here is it seems that the problem is not what the images are ofönamely, torture,
+rape, humiliation, and murderöbut the so-called pornography of the image itself,
+where pornography is defined as the pleasure taken in seeing human degradation, in
+the eroticization of human degradation.
+This definition of pornography evacuates the photographs of the specific brutality
+of the photographic scene. There are examples of women torturing men, of men and
+women both forcing Iraqi women, Muslim women, to bare their breasts, and Iraqi
+men, Muslim men, to perform homosexual acts or to masturbate. The torturer knows
+that this will cause the tortured one shame; the photograph enhances the shame,
+provides a reflection of the act for the one who is forced to do it; threatens to circulate
+the act as public knowledge and so as public shame. The US soldiers exploit the
+962 J Butler
+
+Muslim prohibition against nudity, homosexuality, and masturbation in order to tear
+down the cultural fabric that keeps the integrity of these persons in tact. But the US
+soldiers have their own erotic shame and fear, one that is mixed with aggression in
+some very distinct ways. Why, for instance, in both the first and second Gulf War were
+missiles launched against Iraq on which American soldiers had written, ``up your ass''.
+In this scenario, the bombing, maiming, and killing of Iraqis is figured through
+sodomy, one that is supposed to inflict the ostensible shame of sodomy on those who
+are being bombed. But what does it inadvertently say about the bombers, those
+who ejaculate those missiles? After all, it takes two to commit an act of sodomy, as I
+understand it, which suggests that the US soldiers secure their place in the fantasized
+scene of sodomy in the active and penetrating position, a position that makes them no
+less homosexual for being on top. That the homosexual act is figured as murder,
+though, suggests that it is fully taken up by an aggressive circuit that exploits the
+shame of sexuality, and converts its pleasure into a more raw version of sadism. That
+the US prison guards continue this fantasy by coercing their prisoners into acts of
+sodomy suggests that homosexuality is equated with the decimation of personhood.
+Paradoxically, this may be a place where the Islamic taboo against homosexual acts
+works in perfect concert with homophobia within the US military. The scene of torture
+
+that coerced homosexual acts, and seeks to decimate personhood through that coer-
+cion, presumes that for both torturer and tortured, homosexuality is the destruction of
+
+one's being. The problem, of course, is that the US soldiers seek to externalize this
+truth by coercing others to perform these acts, but the witnesses, the photographers,
+and those who orchestrate the scene of torture are all party to the pleasure, exhibiting
+the very pleasure that they also degrade, acting the top to externalize penetration, and
+yet demanding to see it again and again. A frenzy of the visible. A sadistic frenzy of the
+visible.
+Obviously, Bourke is right to say that some of that kind of pleasure is at work in
+
+these photos and in these scenes, but we make an error if we insist that the `pornog-
+raphy' of the photo is to blame. After all, part of what has to be explained is the
+
+excitation of the photo, the proliferation of the imagery, the relation between the acts
+depicted and the means through which the depiction takes place. And there does seem
+to be a frenzy and excitement, surely also a sexualization of the act of seeing and
+photographing that is distinct, though acting in tandem with, the sexualization of the
+scene depicted. It is not, however, the practice of eroticized seeing that is the problem
+here, but the moral indifference of the photograph coupled with its investment in the
+continuation and reiteration of the scene as a visual icon. But let us not, with this
+important point, say that it is the technology of the camera or the pornographic gaze
+that is finally to blame for these actions. The torture may well have been incited by the
+presence of the camera, continued in anticipation of the camera, but this does not
+establish as its cause either the camera or `pornography'öwhich, after all, has many
+nonviolent versions and several genres that are clearly `vanilla' at best and whose worst
+crimes seem to be the failure to supply an innovative plot.
+There is an important question raised by all of this about the relationship between
+the camera and ethical responsiveness. It seems clear that these images were circulated,
+enjoyed, consumed, and communicated without there being any accompanying sense of
+moral outrage. How this particular banalization of evil took place, and why the photo
+did not alarm, or alarmed only too late, or became alarming only to those who were
+outside the scenes of war and imprisonment, are doubtless crucial to ask. One might
+expect that the photo would, at once, alert us to the abominable human suffering in
+the scene, and yet the photo has no magical moral agency of this kind. In the same way,
+it is not the same as the torturer, even if it functions as an incitement to brutality.
+Torture and the ethics of photography 963
+
+The photos have functioned in at least three ways since their publication: as the
+incitement to brutality, as the testimony to the radical unacceptability of torture, and
+as documentary work displayed in a few museums in this country, including a gallery in
+Pittsburg and the International Center for Photography in New York City (along with a
+more recent exposition in Venice and the traveling Botero exposition(3) as well). The
+photo has clearly traveled outside the original scene, left the hands of the photographer,
+or turned against the photographer him or herself, even perhaps vanquished his or her
+pleasure. It gave rise to a different gaze than the one that would ask for more, and so we
+probably need to accept that the photograph neither tortures nor redeems, but can be
+instrumentalized in radically different directions, depending on how it is discursively
+framed, and through what media presentation the matter of its reality is presented.
+One reality we see in these photos is the reality of rules being ignored or broken. So
+the photograph functions, in part, as a way of registering a certain lawlessness. Recent
+news reports have confirmed that the rules governing treatment of prisoners in
+Guantanamo were used as a model for the treatment of prisoners in Iraq. In fact, it
+seems, the treatment of prisoners in Guantanamo were better. But what do we make of
+the connection? In the first instance, the US claimed not to be bound by the Geneva
+Convention, and in the second instance, it is clear that the US, though legally bound to
+
+the Geneva Convention, defies the standards of treatment stipulated by that conven-
+tion. These prisoners are not humans according to the norms established by the
+
+convention, and somehow, that legal move in which the US claimed that the prisoners
+at Camp Delta were not entitled to protection under the Geneva Convention, is one
+that institutes the expectation, registers the expectation, that these prisoners are less
+
+than human. They are considered enemies of the state, but they are also not con-
+ceptualizable in terms of the civilizational and racial norms by which the human is
+
+constituted. In this sense, their status as less than human is not only presupposed by
+the torture, but reinstituted by the torture. And here we have to seeöas Theodor
+Adorno cautioned us to seeöthat violence in the name of civilization reveals its own
+barbarism, even as it `justifies' its own violence by presuming the barbaric subhumanity of
+the other against whom violence is waged.
+The critique of the frame is, of course, beset by the problem that the presumptive
+viewer is `outside' the frame, over `here' in a First World context, and those who are
+depicted remain nameless and unknown. In this way, the critique I have been following
+stays on this side of the visual divide, offering a First World critique of First World
+visual consumption or offering a First World ethic and politic that would demand an
+outraged and informed response on the part of those whose government perpetrates
+or permits such torture. The problem is, of course, compounded by the fact that the
+publication of the most extensive set of photographs (more than 1000) by Salon in
+February and March of 2006 is constrained by international law to protect the privacy
+of persons who have been the victims of war crimes. It may well be that the materials
+received and published by Salon are the same as those which had been the subject of
+legal battles with the Department of Defense, but even if there are some images
+missing, the number is extensive. The files, leaked from the Criminal Investigation
+Command of the US Army included 1325 images and 93 videos. These images do
+not represent the sum total of torture, and as reporter Joan Walsh pointed out in
+2006, ``this set of images from Abu Ghraib is only one snapshot of systematic tactics
+the United States has used in four-plus years of the global war on terror.''(4)
+
+(3) See http://www.zonaeuropa.com/20050413 2.htm
+(4) See http://www.salon.com/news/abu ghraib/2006/03/14/introduction/
+964 J Butler
+
+Salon investigated the `captions' that the US Army used to identify the various
+scenes of torture, and they apparently included misspellings of names and unclear
+accounts of time and place that had to be reconstructed. The `reality' of the events
+was not immediately clear on the basis of the imagery alone, and the `timeline' had to
+be retrospectively figured out in order to understand the evolution and systematic
+character of the torture itself. The question of reconstructing or, indeed, restituting
+the `humanity' of the victims is made all the more difficult by the fact that faces, when
+not already shrouded as part of the act of torture, had to be deliberately obscured to
+protect the privacy of the victims. What we are left with are photos of people who are
+for the most part faceless and nameless. But can we nevertheless say that the obscured
+face and the absent name function as the visual traceöeven if it is a lacuna within the
+visible fieldöby which the humanity of the victim is marked? This would mean that
+the humans are not restored to a visual or corporeal or socially recognizable identity,
+but that their occlusion and erasure become the continuing sign and mark of their
+suffering and their humanity. The point is not to substitute one set of idealized norms for
+understanding the `human' with another, but to grasp those instances in which the norm
+destroys its instance, when human life exceeds the norm of the human. So the names of the
+victims are not included in the captions, but the names of the perpetrators are. Do we
+lament this lack of names? Yes and no. They are, and are not, ours to know. We might
+think that our norms of humanization require the name and the face, but perhaps the
+
+`face' functions here precisely through its shroud and the means by which it is sub-
+sequently obscured. The face and name are not `ours' to know, and perhaps affirming
+
+this limit is a way of affirming the humanity that has escaped the visual control of the
+photograph. To expose the victim further would be to reiterate the crime, so the task
+would seem to be a full documentation of the acts of the torturer as well as a full
+documentation of those who responsibility exposed the scandalöbut all this without
+intensifying the `exposure' of the victim, either through discursive or visual means.
+When the photos were shown in New York as part of a show curated by Brian
+Wallis, the photographers were not credited for the pictures; the news organizations that
+first agreed to publish them were. Importantly, it was the publication of the photos
+that brings them into the public domain as objects of scrutiny. The photographer is
+given no credit for this; indeed, the photographer, though not photographed, is part
+of the scene that is published, and so a certain complicity is exposed. In this sense, the
+exhibition of the photographs with caption and commentary on the history of their
+publication and reception becomes a way of exposing and countering the closed circuit
+of triumphalist and sadistic exchange that formed the original scene of the photograph
+itself. The scene of that photograph now becomes the object, and we are not so much
+directed by the frame as directed toward it with a renewed critical capacity.
+And though we feel shock at these photographs, it is not the shock that finally
+informs us. Sontag in her last chapter of Regarding the Pain of Others seeks to counter
+her earlier critique of photography. In an emotional, nearly exasperated outcry, one
+that seems quite different from her usual, measured rationalism, Sontag remarks, ``Let
+the atrocious images haunt us.'' We see the photograph and cannot let go of the image
+that is transitively relayed to us. Sontag does not think the image alone can educate
+us, and she opposes the naivete and innocence of those who continue to be shocked
+again and again by the images of atrocity. Surely, we should have learned something.
+But she will not stand for coldness either. She writes that the photograph can be an
+``invitation'' ``to pay attention, reflect ... examine the rationalizations for mass suffering
+
+offered by established powers'' (page 117). And it is my sense that the curated exhibi-
+tion of the Abu Ghraib photos did precisely that. But what is most interesting to me
+
+about the increasing outrage and exasperation she expressed not only in this last
+Torture and the ethics of photography 965
+
+book, but in her articles on 9/11 and yet another called ``Regarding the torture of
+others'' referring explicitly to Abu Ghraib, is that it continues to be directed against
+the photograph not only for making her feel outrage, but for failing to show her how to
+transform that affect into effective political action. She allows that she has in the past
+turned against the photograph with moralistic denunciation precisely because it enrages
+without directing the rage, and so excites our moral sentiments at the same time that it
+confirms our political paralysis. Even this frustration frustrates her, since it remains a
+guilty and narcissistic preoccupation with what one can do, a First World intellectual, and
+so fails again to attend to the suffering of others. Even at the end of that consideration, it is
+a museum piece by Jeff Wall that allows her to formulate this problem of responding to the
+pain of others, and so, we might surmise, a certain consolidation of the museum world
+as the one within which she is most likely to find room for reflection and deliberation.
+A modernist to the end, no doubt, Sontag nevertheless poses a question that I will pose
+again here, which is the question of whether the tortured can and do look back, and
+what do they see when they look at us. She was faulted for saying that the photographs
+in Abu Ghraib were photographs of ``us'' and some critics suggested that this was
+again a kind of self-preoccupation that occluded the suffering of others.
+But perhaps she was merely saying that in seeing the photos, we see ourselves
+seeing, that we are those photographers to the extent that we share those norms that
+provide those frames in which those lives are rendered destitute and abject, sometimes
+clearly beaten to death. In Sontag's view, the dead are profoundly uninterested in usö
+they do not seek our gaze. This rebuff to our visual consumerism that comes from the
+shrouded head, the averted glance, the glazed eyes; this indifference to us performs an
+autocritique of the role of the photograph within media consumption. Although we
+might want to see, the photograph tells us clearly that the dead do not care whether
+we see. For Sontag, this is the ethical force of the photograph, to mirror back the final
+narcissism of our desire to see and to refuse satisfaction to that narcissistic demand.
+She may be right, but perhaps it is also our inability to see what we see that is also
+of critical concern. To learn to see the frame that blinds us to what we see is no easy
+matter. And if there is a critical role for visual culture during times of war it is
+precisely to thematize the forcible frame, the one that conducts the dehumanizing
+norm. The restriction we are asked to live with not only impose constraints on what
+`can' be heard, read, seen, felt, and known.
+It is this numbing of the senses that we witness in the photograph, the decimation
+of the capacity to feel outrage in the face of human suffering, the belief that any
+suffering one inflicts is justified by the suffering that one has undergone, or others
+have undergone. It is not that some stray people in the military or in security contracts
+failed to see, to feel, to maintain a moral perception of other persons as persons. This
+`not seeing' in the midst of seeing, this not-seeing that is the condition of seeing, has
+become the visual norm, and it is that norm that is a national norm, one that we read
+in the photographic frame as it conducts this fateful disavowal.
