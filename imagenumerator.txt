@@ -1,0 +1,7 @@
+//python
+for i in range(1, 97):
+    img_src = f'../../images/photo/nsfw/img ({i}).jpg'
+    thm_src = f'../../images/photo/nsfw/thm/img ({i}).jpg'
+    print(f'<a href="{img_src}" data-lightbox="photography_g" class="thumbnail filter" data-title="">')
+    print(f'  <img src="{thm_src}" width=100% height=auto alt="insert image here">')
+    print('</a>')
